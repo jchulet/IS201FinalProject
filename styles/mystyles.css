@@ -1,0 +1,76 @@
+/*Jason Hulet - 8/12/2022*/
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: rgb(55, 55, 55);
+    background-color: rgb(211, 211, 211);
+    text-align: center;
+}
+
+.maintitle {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    color: rgb(55, 55, 55);
+    text-align: center;
+}
+
+a {
+    color: rgb(55, 55, 55);
+    text-decoration-line: none;
+    font-size: 20px;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+a:visited {
+    color: rgb(55, 55, 55)
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.tableauswebsite {
+    color: rgb(35, 35, 161);
+}
+
+.italicize {
+    font-style: italic;
+}
+
+.buttonfontcolor {
+    color: white;
+}
+
+.centerbutton {
+    justify-content: center;
+}
+
+.howdy {
+    font-family: fantasy;
+}
+
+.typewriterfontsmall {
+    font-family: monospace;
+    font-size: smaller;
+}
+
+.typewriterfont {
+    font-family: monospace;
+}
+
+.centerResumeHeading {
+    text-align: center;
+}
+
+.resumeBulletPoints {
+    font-weight: normal;
+    font-style: italic;
+}
